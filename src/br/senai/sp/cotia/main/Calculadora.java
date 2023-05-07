@@ -13,6 +13,9 @@ public class Calculadora {
 		System.out.println("dasfsdgsad");
 		int acao = 1;
 
+
+		System.out.println("eeeee");
+
 		while (acao > 0) {
 
 			if (acao == 1) {
