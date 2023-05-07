@@ -13,6 +13,8 @@ public class Calculadora {
 		System.out.println("dasfsdgsad");
 		int acao = 1;
 
+		System.out.println("Oi leo aguhguaugnauga");
+
 		while (acao > 0) {
 
 			if (acao == 1) {
