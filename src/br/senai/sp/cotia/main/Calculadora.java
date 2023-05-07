@@ -10,11 +10,7 @@ public class Calculadora {
 		Scanner leitor = new Scanner(System.in);
 		ArrayList<String> historico = new ArrayList<String>();
 
-		System.out.println("dasfsdgsad");
 		int acao = 1;
-
-		System.out.println("Oi leo aguhguaugnauga");
-		System.out.println("banana legal");
 
 		while (acao > 0) {
 
