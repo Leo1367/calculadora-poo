@@ -16,9 +16,16 @@ public class Calculadora {
 
 
 		System.out.println("eeeee");
-		System.out.println("eeeee");
-		System.out.println("eeeee");
 		
+		
+		
+		
+		
+		
+		System.out.println("eeeee");
+		System.out.println("eeeee");
+		System.out.println("eeeee");
+
 		System.out.println("eeeee");
 
 		while (acao > 0) {
