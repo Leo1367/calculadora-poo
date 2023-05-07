@@ -11,7 +11,7 @@ public class Calculadora {
 		ArrayList<String> historico = new ArrayList<String>();
 
 		int acao = 1;
-		System.out.println("oi");
+		System.out.println("oi Editando");
 
 		while (acao > 0) {
 
