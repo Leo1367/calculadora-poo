@@ -11,7 +11,7 @@ public class Calculadora {
 		ArrayList<String> historico = new ArrayList<String>();
 
 		int acao = 1;
-
+		
 		while (acao > 0) {
 
 			if (acao == 1) {
