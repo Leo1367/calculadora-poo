@@ -12,22 +12,6 @@ public class Calculadora {
 
 		int acao = 1;
 
-		System.out.println("E aí");
-
-
-		System.out.println("eeeee");
-		
-		
-		
-		
-		
-		
-		System.out.println("eeeee");
-		System.out.println("eeeee");
-		System.out.println("eeeee");
-
-		System.out.println("eeeee");
-
 		while (acao > 0) {
 
 			if (acao == 1) {
