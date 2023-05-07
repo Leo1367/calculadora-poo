@@ -14,7 +14,7 @@ public class Calculadora {
 		int acao = 1;
 
 		System.out.println("Oi leo aguhguaugnauga");
-		System.out.println("banana");
+		System.out.println("banana legal");
 
 		while (acao > 0) {
 
