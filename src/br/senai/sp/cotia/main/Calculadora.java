@@ -12,6 +12,7 @@ public class Calculadora {
 
 		int acao = 1;
 		System.out.println("oi Editando");
+		System.out.println("e aí");
 
 		while (acao > 0) {
 
